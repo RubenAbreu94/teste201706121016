@@ -1,4 +1,8 @@
 "fich3"
 Acrescentei mais uma linha
 xpto500
+<<<<<<< HEAD
 Claucia
+=======
+Manuel
+>>>>>>> origin/master
